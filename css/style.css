@@ -270,6 +270,11 @@ form textarea{
     padding:0.5em;
 }
 
+button {
+    margin-top: 2em;
+    width: 40em;
+}
+
 @media (min-width: 770px) {
     .title h1{
         font-size: 4.3em;
